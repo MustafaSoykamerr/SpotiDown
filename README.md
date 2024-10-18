@@ -18,7 +18,7 @@ SpotiDown ile Spotify çalma listelerinizi tek tıkla indirebileceksiniz. Peki b
 - OPTİMİZASYON YAPILACAK 🚀  
 - DÜZENLENEBİLEN AYARLAR DAHA KOLAY DÜZENLENEBİLECEK 🛠️  
 - KOD SATIRI DÜŞÜRÜLECEK 🔧  
-- DAHA HIZLI İNDİRME SAĞLANACAK (OLABİLİYORSA) ⚡  
+- **UYGULAMA VE .EXE'YE LOGO EKLENECEK** 🎨
 
 [EN]
 
@@ -43,4 +43,4 @@ With SpotiDown, you can download your Spotify playlists with just one click. How
 - **Optimization will be made** 🚀
 - **Editable settings will become easier to modify** 🛠️
 - **Code lines will be reduced** 🧑‍💻
-- **Faster downloads will be implemented (if possible)** ⚡
+- **Logo wıll be added to the application and .exe** 🎨
